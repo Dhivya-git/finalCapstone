@@ -1,0 +1,39 @@
+Country,Code,Product,Cost,Quantity
+South Africa,SKU44386,Air Max 90,2300.00,20
+China,SKU90000,Jordan 1,3200.00,50
+Vietnam,SKU63221,Blazer,1700.00,19
+United States,SKU29077,Cortez,970.00,60
+Russia,SKU89999,Air Force 1,2000.00,43
+Australia,SKU57443,Waffle Racer,2700.00,5
+Canada,SKU68677,Air Max 97,3600.40,13
+Egypt,SKU19888,Dunk SB,1500.00,26
+Britain,SKU76000,Kobe 4,3400.00,32
+France,SKU84500,Pegasus,2490.00,28
+Zimbabwe,SKU20207,Air Presto,2999.00,7
+Morocco,SKU77744,Challenge Court,1450.00,11
+Israel,SKU29888,Air Zoom Generation,2680.00,6
+Uganda,SKU33000,Flyknit Racer,4900.00,90
+Pakistan,SKU77999,Air Yeezy 2,4389.00,67
+Brazil,SKU44600,Air Jordan 11,3870.00,24
+Columbia,SKU87500,Air Huarache,2683.00,8
+India,SKU38773,Air Max 1,1900.00,29
+Vietnam,SKU95000,Air Mag,2000.00,7
+Israel,SKU79084,Air Foamposite,2430.00,6
+China,SKU93222,Air Stab,1630.00,90
+South Korea,SKU66734,Hyperdunk,1899.00,7
+Australia,SKU71827,Zoom Hyperfuse,1400.00,15
+France,SKU20394,Eric Koston 1,2322.00,17
+hj,SKU00000,njh,7.00,9
+IN,SKU67854,ghje,4.00,34
+India,SKU99999,Serupu,13.00,30
+Mexico,SKU69696,Air Purrr 23,15.30,20
+Singapore,SKU54545,Clean Air 24,16.50,15
+UK,SKU11111,Pik 567,5.99,6
+India,SKU66666,Chep 34,1.10,5
+Thailand,SKU54345,ffdf 67,45.00,10
+Ireland,SKU45678,pikkas 23,3.34,5
+Japan,SKU88888,gills 00,13.00,10
+russia,SKU43434,dfg 56,4.50,4
+Algeria,SKU22222,dhsdhj,4.00,19
+Mangolia,SKU67676,kappi 34,3.00,8
+Loose C,SKU51515,pakki 21,4.00,10
