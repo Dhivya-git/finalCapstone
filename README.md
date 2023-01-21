@@ -2,6 +2,10 @@
 
 *Please navigate to the respective folders for these projects.*
 
+### [eBook Store](BookStore_T48)
+*[README](BookStore_T48/BOOKSTORE.md)*
+### [Personal & Ecommerce sites using Django](Personal_Ecommerce_Django_T43)
+*[README](Personal_Ecommerce_Django_T43/PERSONAL_ECOMMERCE_DJANGO.md)*
 ### [Stock Management System](StockManagementSystem_T32)
 *[README](StockManagementSystem_T32/STOCKMANAGER.md)*
 ### [Email Simulation](EmailSimulation_T30)
