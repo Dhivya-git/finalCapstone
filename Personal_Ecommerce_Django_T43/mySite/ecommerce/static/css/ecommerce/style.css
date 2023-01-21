@@ -1,0 +1,35 @@
+/* Leaves a margin at the top and bottom for container */
+.container{
+   margin-top: 2%;
+   margin-bottom: 1%;
+}
+
+/* Leaves margin at the bottom for each card */
+.card{
+    margin-bottom: 10px;
+}  
+
+/* Sets the background colour for the body */
+body{
+    background-color: bisque;
+}
+
+/* Creates smooth transition for the image on mouse over */
+.inner img{
+    transition: all 1.5s ease;
+}
+
+/* Zooms the image on mouse over */
+.inner:hover img{
+    transform: scale(1.5);
+}
+
+/* Sets the font size for the header in the form */
+h3{
+    font-size: 25px
+}
+
+/* Aligns the label to the controls in the form */
+label{
+    text-align: right;
+}
