@@ -26,7 +26,7 @@ The application expects inventory.txt to be in the same folder as the script. Th
 ---
 #### **Usage**
 ### Start Screen
-![Initial Screen](images/start_screen.png)
+![Initial Screen](images/start_screen.PNG)
 
 The program loads with the start screen with the above options.
 

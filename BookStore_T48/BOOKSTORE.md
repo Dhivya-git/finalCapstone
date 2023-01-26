@@ -26,7 +26,7 @@ The application requires data folder to be in the same path as the Python script
 ---
 #### **Usage**
 ### Start Screen
-![Initial Screen](images/start_up_screen.png)
+![Initial Screen](images/start_up_screen.PNG)
 
 The program loads with the start screen (preloaded with few books) with the above options.
 

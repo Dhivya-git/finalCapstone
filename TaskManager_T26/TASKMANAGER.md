@@ -64,7 +64,7 @@ This option lets any user to view the tasks assigned to all users.
 This option lets any user to view the tasks assigned to them and it further asks for the task id of the task that they wish to work with.
 
 ---
-![edit task screen1](images/edit_task1.png)
+![edit task screen1](images/edit_task1.PNG)
 
 Upon entering the task id, they are provided with two options - if they would like to mark the task to completion or edit the task.
 
