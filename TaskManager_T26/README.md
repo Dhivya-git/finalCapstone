@@ -86,7 +86,7 @@ This option lets them to mark the chosen task to completion. It updates the task
 This option further asks the user if they would like to edit the username of the person to whom the task is assigned or edit the due date of the task.
 
 ---
-### u - username  of the person to whom the task is assigned
+### u - username of the person to whom the task is assigned
 ![change username task screen](images/task_user_update.PNG)
 
 This option lets the user to change the task assigned to them to be assigned to someone else. It updates the task entry in [tasks.txt](tasks.txt)
