@@ -25,7 +25,7 @@ Copy email.py from this folder and execute it. This script does not require any 
 | [Check Inbox](#check-inbox) | This checks the inbox for new messages |
 
 ---
-#### **Usage**
+### **Usage**
 ### Start Screen
 ![Initial Screen](images/start_screen.PNG)
 

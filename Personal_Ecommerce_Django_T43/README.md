@@ -26,7 +26,7 @@ a dynamic portfolio (using CSS and template extending using Django) & an ecommer
 | [Static Portfolio](#static-portfolio) | This lets the user to delete a book from the book inventory |
 
 ---
-#### **Usage**
+### **Usage**
 ### Start Index Page
 ![Index screen](images/index_page.PNG)
 

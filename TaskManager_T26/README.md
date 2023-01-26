@@ -24,7 +24,7 @@ The task_manager.py expects tasks.txt and user.txt to be in the same folder as t
 | [ds - display statistics](#ds---display-statistics) | This option is only for admin user to display the task and user statistics on to the screen |
 
 ---
-#### **Usage**
+### **Usage**
 ### Start Screen
 The program has two start screens based on the users logged in.
 

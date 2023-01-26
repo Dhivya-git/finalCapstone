@@ -21,7 +21,7 @@ Copy the finance_calculators.py from this folder and execute it.  This script do
 | [Bond](#bond) | This lets the user to add a book in the book inventory |
 
 ---
-#### **Usage**
+### **Usage**
 ### Investment with Simple Interest
 ![Investment with Simple Interest Screen](images/investment_simple.PNG)
  

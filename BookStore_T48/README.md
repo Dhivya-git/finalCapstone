@@ -24,7 +24,7 @@ The application requires data folder to be in the same path as the Python script
 | [Show Lowest](#show-lowest) | This displays the books with the lowest stocks from the book inventory |
 
 ---
-#### **Usage**
+### **Usage**
 ### Start Screen
 ![Initial Screen](images/start_up_screen.PNG)
 

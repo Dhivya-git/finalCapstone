@@ -24,7 +24,7 @@ The application expects inventory.txt to be in the same folder as the script. Th
 | [Stock Values](#stock-values) | This displays the stock values of all the shoes in the inventory |
 
 ---
-#### **Usage**
+### **Usage**
 ### Start Screen
 ![Initial Screen](images/start_screen.PNG)
 
