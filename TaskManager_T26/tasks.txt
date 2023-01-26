@@ -1,2 +1,4 @@
 admin, Register Users with taskManager.py, Use taskManager.py to add the usernames and passwords for all team members that will be using this program., 10 Oct 2019, 20 Oct 2019, Yes
-admin, Assign initial tasks, Use taskManager.py to assign each team member with appropriate tasks, 10 Oct 2019, 01 Jan 2023, No
+admin, Assign initial tasks, Use taskManager.py to assign each team member with appropriate tasks, 10 Oct 2019, 01 Jan 2023, Notom, Fill the timesheet, Specify the amount of time spent on each activity., 25 Jan 2023, 13 Feb 2023, No
+dhivya, Automation script, Create automation script for the new module., 25 Jan 2023, 04 Feb 2023, Yes
+dhivya, Fill the timesheet, Specify the amount of time spent on each activity., 25 Jan 2023, 20 Feb 2023, No

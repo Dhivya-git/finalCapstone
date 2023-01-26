@@ -1,76 +1,31 @@
 ==========================================================
-Total number of users     :8
-Total number of tasks     :16
+Total number of users     :3
+Total number of tasks     :4
 ==========================================================
 
 admin's report
 ----------------------------------------------------------
-Total tasks                                :4
-Percentage of admin's total tasks          :25.0%
-Percentage of admin's completed tasks      :25.0%
-Percentage of admin's incomplete tasks     :75.0%
+Total tasks                                :2
+Percentage of admin's total tasks          :50.0%
+Percentage of admin's completed tasks      :50.0%
+Percentage of admin's incomplete tasks     :0.0%
 Percentage of admin's overdue tasks        :0.0%
 ----------------------------------------------------------
 
 dhivya's report
 ----------------------------------------------------------
-Total tasks                                 :2
-Percentage of dhivya's total tasks          :12.5%
-Percentage of dhivya's completed tasks      :50.0%
-Percentage of dhivya's incomplete tasks     :50.0%
+Total tasks                                 :1
+Percentage of dhivya's total tasks          :25.0%
+Percentage of dhivya's completed tasks      :100.0%
+Percentage of dhivya's incomplete tasks     :0.0%
 Percentage of dhivya's overdue tasks        :0.0%
 ----------------------------------------------------------
 
-sasi's report
+tom's report
 ----------------------------------------------------------
-Total tasks                               :4
-Percentage of sasi's total tasks          :25.0%
-Percentage of sasi's completed tasks      :25.0%
-Percentage of sasi's incomplete tasks     :75.0%
-Percentage of sasi's overdue tasks        :25.0%
-----------------------------------------------------------
-
-eash's report
-----------------------------------------------------------
-Total tasks                               :6
-Percentage of eash's total tasks          :37.5%
-Percentage of eash's completed tasks      :33.33%
-Percentage of eash's incomplete tasks     :66.67%
-Percentage of eash's overdue tasks        :0.0%
-----------------------------------------------------------
-
-lavs's report
-----------------------------------------------------------
-Total tasks                               :0
-Percentage of lavs's total tasks          :0.0%
-Percentage of lavs's completed tasks      :0%
-Percentage of lavs's incomplete tasks     :0%
-Percentage of lavs's overdue tasks        :0%
-----------------------------------------------------------
-
-shan's report
-----------------------------------------------------------
-Total tasks                               :0
-Percentage of shan's total tasks          :0.0%
-Percentage of shan's completed tasks      :0%
-Percentage of shan's incomplete tasks     :0%
-Percentage of shan's overdue tasks        :0%
-----------------------------------------------------------
-
-adhi's report
-----------------------------------------------------------
-Total tasks                               :0
-Percentage of adhi's total tasks          :0.0%
-Percentage of adhi's completed tasks      :0%
-Percentage of adhi's incomplete tasks     :0%
-Percentage of adhi's overdue tasks        :0%
-----------------------------------------------------------
-
-vani's report
-----------------------------------------------------------
-Total tasks                               :0
-Percentage of vani's total tasks          :0.0%
-Percentage of vani's completed tasks      :0%
-Percentage of vani's incomplete tasks     :0%
-Percentage of vani's overdue tasks        :0%
+Total tasks                              :1
+Percentage of tom's total tasks          :25.0%
+Percentage of tom's completed tasks      :0.0%
+Percentage of tom's incomplete tasks     :100.0%
+Percentage of tom's overdue tasks        :0.0%
 ----------------------------------------------------------
