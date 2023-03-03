@@ -20,10 +20,10 @@ a dynamic portfolio (using CSS and template extending using Django) & an ecommer
 ### **Functions**
 | Function | Description |
 | :--- | :--- |
-| [Start Index Page](#start-index-page) | This lets the user to add books into the book inventory |
-| [Personal Portfolio](#personal-portfolio) | This lets the user to add a book in the book inventory |
-| [E-commerce Page](#e-commerce-page) | This lets the user to delete a book from the book inventory |
-| [Static Portfolio](#static-portfolio) | This lets the user to delete a book from the book inventory |
+| [Start Index Page](#start-index-page) | This lets the user go to the index page |
+| [Personal Portfolio](#personal-portfolio) | This lets the user to access the personal portfolio |
+| [E-commerce Page](#e-commerce-page) | This lets the user to access the E-commerce page |
+| [Static Portfolio](#static-portfolio) | This lets the user to access the static portfolio |
 
 ---
 ### **Usage**
