@@ -16,22 +16,22 @@ Copy the finance_calculators.py from this folder and execute it.  This script do
 ### **Functions**
 | Function | Description |
 | :--- | :--- |
-| [Investment with Simple Interest](#investment-with-simple-interest) | This lets the user to add books into the book inventory |
-| [Investment with Compound Interest](#investment-with-compound-interest) | This lets the user to add books into the book inventory |
-| [Bond](#bond) | This lets the user to add a book in the book inventory |
+| [Investment with Simple Interest](#investment-with-simple-interest) | This lets the user to calculate the amount of simple interest a user would earn on their investment for a given period. |
+| [Investment with Compound Interest](#investment-with-compound-interest) | This lets the user to calculate the amount of compound interest a user would earn on their investment for a given period. |
+| [Bond](#bond) | This lets the user to calculate the amount they have to pay each month for the repayment of the mortgage. |
 
 ---
 ### **Usage**
 ### Investment with Simple Interest
 ![Investment with Simple Interest Screen](images/investment_simple.PNG)
  
- It calculates the amount of interest a user would earn on their investment for a given period. The user has to input the amount they would like to invest, the interest rate, the number of year they plan to invest and choose simple interest.
+ It calculates the amount of simple interest a user would earn on their investment for a given period. The user has to input the amount they would like to invest, the interest rate, the number of year they plan to invest and choose simple interest.
 
 ---
 ### Investment with Compound Interest
 ![Investment with Compound Interest Screen](images/investment_compound.PNG)
 
-Just like the previous option, it calculates the amount of interest a user would earn on their investment for a given period. The user has to input the amount they would like to invest, the interest rate, the number of year they plan to invest and choose compound interest.
+It calculates the amount of compound interest a user would earn on their investment for a given period. The user has to input the amount they would like to invest, the interest rate, the number of year they plan to invest and choose compound interest.
 
 ---
 ### Bond
